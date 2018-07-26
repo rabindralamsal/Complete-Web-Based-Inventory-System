@@ -1,0 +1,175 @@
+::-webkit-scrollbar {
+display: none;
+}
+
+body {
+    background: url(../../custom/images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.vertical{
+	padding-top:13%;
+}
+table.dataTable thead th, table.dataTable thead td, table.dataTable.no-footer {
+    border-bottom: 1px solid #eee;
+}
+@media (min-width: 1200px){
+.container {
+    width: 950px;}}
+.container {
+    margin-top: 100px;}
+.label {
+	padding: 0.4em 1em;
+    font-size: 100%;
+    font-weight: 700;
+    border-radius: 0px;
+}
+.tables td {
+    font-weight: normal;
+    text-transform: uppercase;
+  }
+.tables thead{
+	background-color: #eee;
+}
+input[type=search] {
+    border: solid 2px #eee;
+}
+table.dataTable tbody td {
+    padding: 8px 18px;
+    border-bottom: solid 1px #eee;
+    background-color: #f9f9f9;
+    border-right: solid 1px #eee;
+    border-left: solid 1px #eee;
+    text-align: center;
+}
+table.dataTable.no-footer {
+    border-bottom: none;
+}
+.navbar{
+	border:none;
+}
+.navbar-brand {
+    font-size: 20px;
+}
+.navbar-default .navbar-brand {
+    color: #fff;
+    background-color: #705d9f;
+}
+.navbar-default {
+    background-image: none;
+    background: #ffffff;
+}
+.breadcrumb {
+    background-color: #eee;
+    border-radius: 0px;
+    border: solid 1px #e6e5e5;
+}
+.navbar-default .navbar-brand:hover{
+	background-color:#4568b1;
+	color:#ffffff;
+}
+.navbar-default .navbar-nav>.active>a{
+    background-image: none;
+}
+.modal-content{
+	border-radius:0px;
+	margin-top:100px;
+}
+#usernameForm, #passwordForm{
+    border: solid 2px #eee;
+    padding: 20px;
+}
+#submitOrderForm{
+    padding: 0px 20px;
+}
+.form-horizontal .form-group {
+    margin-left: 0px;
+}
+.modal-open {
+    padding-right: 0px !important;
+        overflow: inherit;
+}
+.check{
+    border: dotted 3px red;
+    padding: 3% 5% 2%;
+    margin: 30px;
+    background-color: #f5f5f5;
+}
+.okay{
+    border: dotted 3px green;
+    padding: 3% 5% 3%;
+    margin: 30px;
+    text-align: center;
+    background-color: #f5f5f5;
+}
+#totalBrands{
+    background-color: #8ac34a;
+    color: #fff;
+    padding: 3%;
+    border-right: solid 5px #808080;
+}
+#totalCategories{
+    background-color: #8ac34a;
+    padding: 3%;
+    color: #fff;
+    border-right: solid 5px #808080;
+}
+#totalProducts{
+    background-color: #8ac34a;
+    padding: 3%;
+    color: #ffffff;
+}
+#rowSeperator{
+        margin-top: 5px;
+}
+#totalSales{
+    background-color: #FF9800;
+    padding: 3%;
+    color: #fff;
+    border-right: solid 5px #808080;
+}
+#totalCollected{
+    background-color: #8ac34a;
+    padding: 3%;
+    color: #ffffff;
+}
+#totalCustomers{
+    background-color: #8ac34a;
+    color: #fff;
+    padding: 3%;
+    border-right: solid 5px #808080;
+}
+#totalOrders{
+    background-color: #8ac34a;
+    color: #fff;
+    padding: 3%;
+    border-right: solid 5px #808080;
+}
+#totalDue{
+    background-color: #FF9800;
+    color: #fff;
+    padding: 3%;
+    height: 145px;
+}
+.card-title{
+    font-weight: 600;
+}
+.welcome{
+    text-align: center;
+    color: #fff;
+}
+#from, #upto{
+    border: solid 1px #ddd;
+    padding: 5px 5px 5px 15px;
+    color: #aaa;
+}
+.footer-copyright {
+    background-color: #4f336d;
+    padding: 15px;
+    color: #cacaca;
+    margin-top: 30px;
+    font-size: .9em;
+}
+.footer-copyright a{
+    color: #cacaca;
+}
