@@ -10,6 +10,3 @@ Reliance Store | JNU Branch
 <ul> Manage Orders on the go. Whenever orders are made, inventory is automatically updated to changes made.</ul>
 <ul> Quick view of the inventory ’stats’.</ul>
 <ul> View and update orders.</ul>
-
-
-[[https://github.com/rabindralamsal/Complete-Web-Based-Inventory-System/tree/master/presentation/0001.jpg]]
