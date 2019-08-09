@@ -16,4 +16,15 @@ This projects was written during my M.Tech second semester as a database mini pr
 <p><img src="https://github.com/rabindralamsal/Complete-Web-Based-Inventory-System/raw/master/presentation/0001.jpg?raw=true" alt="">
 <img src="https://github.com/rabindralamsal/Complete-Web-Based-Inventory-System/raw/master/presentation/0002.jpg?raw=true" alt=""></p>
 
-        
+<h2>Inside the inventory management system</h2>
+
+<img src="https://github.com/rabindralamsal/Complete-Web-Based-Inventory-System/raw/master/1.PNG?raw=true" alt="">
+<img src="https://github.com/rabindralamsal/Complete-Web-Based-Inventory-System/raw/master/2.PNG?raw=true" alt="">
+<img src="https://github.com/rabindralamsal/Complete-Web-Based-Inventory-System/raw/master/3.PNG?raw=true" alt="">
+<img src="https://github.com/rabindralamsal/Complete-Web-Based-Inventory-System/raw/master/4.PNG?raw=true" alt="">
+<img src="https://github.com/rabindralamsal/Complete-Web-Based-Inventory-System/raw/master/5.PNG?raw=true" alt="">
+<img src="https://github.com/rabindralamsal/Complete-Web-Based-Inventory-System/raw/master/6.PNG?raw=true" alt="">
+<img src="https://github.com/rabindralamsal/Complete-Web-Based-Inventory-System/raw/master/7.PNG?raw=true" alt="">
+<img src="https://github.com/rabindralamsal/Complete-Web-Based-Inventory-System/raw/master/8.PNG?raw=true" alt="">
+<img src="https://github.com/rabindralamsal/Complete-Web-Based-Inventory-System/raw/master/9.PNG?raw=true" alt="">
+<img src="https://github.com/rabindralamsal/Complete-Web-Based-Inventory-System/raw/master/10.PNG?raw=true" alt="">
