@@ -1,4 +1,4 @@
-#Complete Web Based Inventory System (PHP and MySQL)
+<h1>Complete Web Based Inventory System (PHP and MySQL)</h1>
 
 This projects was written during my M.Tech second semester as a database mini project.
 <h2>
